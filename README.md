@@ -6,7 +6,7 @@ This space is dedicated to documenting my journey, studies, and personal project
 
 ## 👨‍💻 About Me
 
-Hi, I'm Vitor! I am a Database student at Fatec and currently work as a Mathematics teacher at Kumon. 
+Hi, I'm Vitor! I am a Database student at Fatec.
 
 I am deeply passionate about bridging mathematical logic with software engineering to build efficient, scalable, and well-structured systems. I'm also highly interested in information security, history, and geography, which constantly broadens my analytical perspective when solving complex problems.
 
