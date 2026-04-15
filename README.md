@@ -30,5 +30,10 @@ A RESTful API built to manage students, teachers, and grading systems (exams and
 * **Key Concepts:** Strict application of Object-Oriented Programming (Polymorphism, Inheritance, Interfaces) and the MVC architectural pattern.
 * **Tech:** Spring Boot, Spring Data JPA, H2 Database.
 
+  ### 2. [Simplified Banking System](./sistemabancario)
+A console-based application modeling a banking system with different account types (Checking and Savings) and a dynamic tax calculation system for various bank services.
+* **Key Concepts:** Abstract classes, inheritance with method overriding (`super` and `@Override`), and interface-driven polymorphism.
+* **Tech:** Core Java.
+
 ---
 *Feel free to explore the code, open issues, or reach out!*
